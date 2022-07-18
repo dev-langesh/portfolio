@@ -9,6 +9,7 @@ module.exports = {
       roboto: ["Roboto", "sans-serif"],
       slab: ["Roboto Slab", "serif"],
       poppins: ["Poppins", "sans-serif"],
+      cursive: ["Great Vibes", "cursive"],
     },
     extend: {},
   },
