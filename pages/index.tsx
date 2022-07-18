@@ -23,14 +23,14 @@ const Home: NextPage = () => {
             This is
             <span className="text-4xl font-cursive px-2"> Langesh </span>
             from India,
-            <p className="text-xl">I'm a</p>
+            <p className="text-xl">I&apos;m a</p>
             <div className="text-4xl font-slab font-semibold py-2 bg-gradient-to-r from-blue-500 to to-sky-400 text-transparent bg-clip-text">
               Full Stack Developer
             </div>
           </p>
         </section>
         <section className="flex flex-col md:flex-row md:justify-between md:w-11/12 ">
-          <p className="w-11/12 md:w-[500px] py-6 pr-4 md:pr-10">
+          <p className="md:w-[500px] py-6 pr-4 md:pr-10">
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia
             animi dolor nemo nihil eaque cupiditate fugiat corporis quia commodi
             quis ratione cum voluptatum sed officiis esse, repellat doloribus.
